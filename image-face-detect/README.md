@@ -1,5 +1,5 @@
 # opencv
-OpenCV to detect face and eye
+OpenCV to detect face
 
 ## Simple Face detect for image using opencv in python
 
