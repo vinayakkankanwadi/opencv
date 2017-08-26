@@ -1,0 +1,20 @@
+opencv_createsamples -info info/info.lst -num 1950 -w 20 -h 20 -vec positives.vec
+
+Info file name: info/info.lst
+Img file name: (NULL)
+Vec file name: positives.vec
+BG  file name: (NULL)
+Num: 1950
+BG color: 0
+BG threshold: 80
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Width: 20
+Height: 20
+Max Scale: -1
+Create training samples from images collection...
+Done. Created 1950 samples
