@@ -1,0 +1,19 @@
+opencv_createsamples -img pos/watch5050.jpg -bg bg.txt -info info/info.lst -pngoutput info -maxxangle 0.5 -maxyangle 0.5 -maxzangle 0.5 -num 1950
+
+Info file name: info/info.lst
+Img file name: pos/watch5050.jpg
+Vec file name: (NULL)
+BG  file name: bg.txt
+Num: 1950
+BG color: 0
+BG threshold: 80
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 0.5
+Max y angle: 0.5
+Max z angle: 0.5
+Show samples: FALSE
+Width: 24
+Height: 24
+Max Scale: -1
+Create test samples from single image applying distortions...
